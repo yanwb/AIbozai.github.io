@@ -21,14 +21,15 @@
       <p><b>硕士研究生</b></p>
       <p><b>成都理工大学</b></p>
       <p><b>专业：计算机技术</b></p>
-      
     </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
-    <p><b>邮箱：yanwenbo@supermap.com</b></p>
-    <p><b>籍贯：江西省抚州市</b></p>
-    <p><b>现居住地址：四川省成都市成华区，邮编：610051</b></p>
+    <td>
+      <p><b>邮箱：yanwenbo@supermap.com</b></p>
+      <p><b>籍贯：江西省抚州市</b></p>
+      <p><b>现居住地址：四川省成都市成华区，邮编：610051</b></p>
+    </td>
   </tr>
 </table>
 
