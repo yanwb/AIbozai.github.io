@@ -34,4 +34,10 @@
     </tr>
   </tr>
 </table>
+<table border="0">
+  <tr>
+    <h1>最新消息</h1>
+    <p><b>消息1：</b></p>
+  </tr>
+</table>
 
