@@ -40,4 +40,17 @@
     <p><b>消息1：</b></p>
   </tr>
 </table>
+<table border="0">
+  <tr>
+    <h1>研究方向</h1>
+    <p><b>-图像识别</b></p>
+    <p><b>-人工智能</b></p>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <h1>项目研究</h1>
+    <p><b>基于对抗式生成网络的遥感图像的识别</b></p>
+  </tr>
+</table>
 
