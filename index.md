@@ -25,11 +25,13 @@
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
-    <td>
-      <p><b>邮箱：yanwenbo@supermap.com</b></p>
-      <p><b>籍贯：江西省抚州市</b></p>
-      <p><b>现居住地址：四川省成都市成华区，邮编：610051</b></p>
-    </td>
+    <tr>
+      <td>
+        <p><b>邮箱：yanwenbo@supermap.com</b></p>
+        <p><b>籍贯：江西省抚州市</b></p>
+        <p><b>现居住地址：四川省成都市成华区，邮编：610051</b></p>
+      </td>
+    </tr>
   </tr>
 </table>
 
